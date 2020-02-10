@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="message">Stopped: 0</string>
+    <string name="name_hint">Game Input</string>
+    <string name="buttonText">Change the color and add your name</string>
+    <string name="empty" />
+    <string name="increase">Start or Stop</string>
+    <string name="tryT">Press me</string>
+    <string name="name">Name</string>
+    <string-array name="cycle">
+        <item>Stop it!</item>
+        <item>Don\'t touch me</item>
+        <item>Leave me alone</item>
+    </string-array>
+</resources>
