@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         String[] ar = res.getStringArray(R.array.cycle);
         tryToPressMe.setText(ar[c]);
         c += 1;
-        if(c > 2)
+        if(c > 9)
             c = 0;
 
         Log.d("move", "xPos: " + xPos + ", yPos: " + yPos);
